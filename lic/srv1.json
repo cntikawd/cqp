@@ -1,1 +1,10 @@
-.
+{
+  "app": {
+    "pars": "thukgangkur-45b19e1d124c",
+    "en": "pd"
+  },
+  "meta": {
+    "lu": "2026-04-21T00:00:00Z",
+    "version": "1.0.0"
+  }
+}
